@@ -1,0 +1,11 @@
+*/target/
+.idea/
+/*.idea/
+*/docker_compile/*
+.idea_modules/
+**.iml
+*.ipr
+*.iws
+environment/sviluppo/neo4j/
+/target/
+target/
